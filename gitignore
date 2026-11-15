@@ -1,0 +1,6 @@
+# Never commit personal photos or output
+Raw Files/
+Organized/
+
+# Build output (attach to GitHub Releases instead)
+*.exe
