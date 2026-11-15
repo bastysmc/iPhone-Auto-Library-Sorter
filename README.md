@@ -44,9 +44,9 @@ Organized/
 ## How to use
 
 ### Option A: the .exe
-1. Download `iPhone - iCloud Sorter.exe` from the [Releases](../../releases) page.
-2. Put it in the same folder as `Raw Files`.
-3. Double-click it and follow the prompt.
+1. Download `iPhone-Auto-Library-Sorter.zip` from the [Releases](../../releases) page and extract it anywhere.
+2. Put your iCloud export folders inside the `Raw Files` folder (see the note in that folder).
+3. Double-click `iPhone - iCloud Sorter.exe` and follow the prompt.
 
 The exe is unsigned, so Windows SmartScreen or your antivirus may show a warning the first time. You can click **More info -> Run anyway**, or build it yourself (below) or use Option B.
 
